@@ -1,5 +1,5 @@
 # bcash-logo
-Proposed logo for Bitcoin Cash
+Proposed logo for "Bitcoin Cash"
 
 **Color:** #76c353
 
